@@ -1,7 +1,7 @@
 # Registro de Testes de Endpoint
 
 Aluno: Miguel Munhoz
-Grupo: (não informado)
+Grupo: (4) 2DEV
 
 ## Testes escritos
 
